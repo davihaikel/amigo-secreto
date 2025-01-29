@@ -8,11 +8,9 @@ Projeto desenvolvido durante curso da AluraONE, basicamente o programa pede que 
 - Aprendizado
 - Prática
 
-![Interface do Jogo do Amigo Secreto](https://imgur.com/gallery/jogo-do-amigo-secreto-8KcrOjk)
+![Interface do Jogo do Amigo Secreto](./https://imgur.com/gallery/jogo-do-amigo-secreto-8KcrOjk)
 
 ## ✔️ Técnicas e tecnologias utilizadas
-
-**Faça uma lista de tecnologias e técnicas utilizadas (a justificativa e descrição são opcionais)**:
 
 - `JavaScript`: Usado para capturar o texto inserido pelo usuário, adicionar a lista e sortear o nome.
 - `HTML`: Mostrar para o usuário
