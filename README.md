@@ -8,7 +8,7 @@ Projeto desenvolvido durante curso da AluraONE, basicamente o programa pede que 
 - Aprendizado
 - Prática
 
- ![Interface do Jogo do Amigo Secreto](C:\Users\Manorados\Pictures\Interface\interfaceas.png)
+ ![Interface do Jogo do Amigo Secreto](.github/C:\Users\Manorados\Pictures\Interface\interfaceas.png)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
